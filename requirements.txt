@@ -1,5 +1,4 @@
-streamlit
-google-genai
-amadeus
-python-dotenv
+streamlit==1.54.0
+google-genai==0.10.0
+amadeus==9.0.0
 pandas
